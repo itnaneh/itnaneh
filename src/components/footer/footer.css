@@ -1,0 +1,94 @@
+.footer{
+    background-color: var(--container-color);
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+.footer__container{
+    padding: 1rem 0.6rem;
+}
+.footer__title,
+.footer-link{
+    color: var(--title-color);
+}
+.footer__title{
+    text-align: center;
+    margin-bottom: var(--mb-2);
+}
+.footer__link:hover{
+    color: var(--title-color-dark);
+}
+
+.footer__social{
+    display: flex;
+    justify-content: center;
+    column-gap: 1.25rem; 
+}
+.footer__social-link{
+    background-color: var(--title-color);
+    color: var(--container-color);
+    font-size: 1.125rem;
+    padding: 0.4rem;
+    border-radius:0.5rem ;
+    display: inline-flex;
+}
+.footer__social-link:hover{
+    background-color: var(--title-color-dark);
+}
+.footer__copy{
+    display: block;
+    margin-top: 1.5rem;
+    color: var(--title-color);
+    text-align: center;
+    font-size: var(--smaller-font-size);
+}
+#fr{
+    color: #cbc1b7;
+}
+/*============== BREAKPOINTS ===================*/
+/* For Large Devices*/
+@media screen and (max-width: 992px){
+    .footer__social-links{
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem;
+    }
+  }
+  /*For Medium devices*/
+  @media screen and (max-width:768px){
+   
+  }
+  @media screen and(max-width:576px) {
+    
+  }
+  /*For small devices*/
+  @media screen and (max-width:350px){
+    
+  }
+  @media screen and (max-width:322px){
+    .footer__container{
+        padding: 0.5rem 0.6rem;
+    }
+    .footer__title{
+        text-align: center;
+        margin-bottom: var(--mb-2);
+        font-size: 20px;
+    }
+    .footer__copy{
+        margin-top: 1rem;
+        font-size: 12px;
+    }
+}
+
+  /*
+           
+            <div className="footer__social">
+            <a href="https://www.facebook.com/Hamzaitnane2003/" className="footer__social-link" target="_blank">
+             <i class="bx bxl-facebook"></i>
+            </a>
+            <a href="https://www.instagram.com/itnane_h/" className="footer__social-link" target="_blank">
+            <i class="bx bxl-instagram"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/hamza-itnane-330560241/" className="footer__social-link" target="_blank">
+            <i class="bx bxl-linkedin"></i>
+            </a>
+            </div>
+*/
