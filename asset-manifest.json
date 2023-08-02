@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/itnaneh/static/css/main.48ac8a1e.css",
+    "main.js": "/itnaneh/static/js/main.57b7fb76.js",
+    "static/media/th4.jpg": "/itnaneh/static/media/th4.deeb9b20c359667988bc.jpg",
+    "static/media/auth.png": "/itnaneh/static/media/auth.253e1767fa8945485442.png",
+    "static/media/th5.jpg": "/itnaneh/static/media/th5.8f822e2011b58f62d3cf.jpg",
+    "static/media/club.png": "/itnaneh/static/media/club.547903b16e5334b891a3.png",
+    "static/media/Dashboard.png": "/itnaneh/static/media/Dashboard.489726215d2d064b0c52.png",
+    "static/media/sneakers.png": "/itnaneh/static/media/sneakers.dccec19de37a8ae76b95.png",
+    "static/media/about.jpg": "/itnaneh/static/media/about.b7e1fca9a84103f17a9f.jpg",
+    "static/media/th3.jpg": "/itnaneh/static/media/th3.3d6740f2f1d8a6fa93f9.jpg",
+    "static/media/th6.jpg": "/itnaneh/static/media/th6.f30c4648660f4e38c457.jpg",
+    "static/media/th2.jpg": "/itnaneh/static/media/th2.c7b0532ad3a00cd351e4.jpg",
+    "static/media/hamzaitnane.pdf": "/itnaneh/static/media/hamzaitnane.921a0b669a0560d33ff1.pdf",
+    "static/media/th1.jpg": "/itnaneh/static/media/th1.6dbaf2c5b430623d18af.jpg",
+    "static/media/profile.jpg": "/itnaneh/static/media/profile.cf94308b108adacbfab8.jpg",
+    "static/media/Gestion.png": "/itnaneh/static/media/Gestion.2eff083e48580f2dc2cd.png",
+    "static/media/Weather.png": "/itnaneh/static/media/Weather.a6b1d062af0505354e43.png",
+    "static/media/XO.png": "/itnaneh/static/media/XO.d8927ad48151bfd64985.png",
+    "index.html": "/itnaneh/index.html",
+    "main.48ac8a1e.css.map": "/itnaneh/static/css/main.48ac8a1e.css.map",
+    "main.57b7fb76.js.map": "/itnaneh/static/js/main.57b7fb76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ac8a1e.css",
+    "static/js/main.57b7fb76.js"
+  ]
+}
