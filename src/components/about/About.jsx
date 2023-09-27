@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/about.png";
-import hamzaitnane from "../../assets/hamzaitnane.pdf";
+import HAMZAITNANE from "../../assets/HAMZAITNANE-CV.pdf";
 
 const About = () => {
   return (
@@ -12,7 +12,7 @@ const About = () => {
             <img src={AboutImg} className='about__img' />
             <div className="about__data">
             <p className="about__description" >I am Hamza Itnane 20 years old , holding a diploma in Full-Stack Web Development "OFPPT" I am highly motivated to enter the job market , I have a good mastery of the technologies mentioned on my CV, and I am open to improving my knowledge of other technologies.</p> <br />
-                <a href={hamzaitnane} className="button button--flex" download="" >Download CV
+                <a href={HAMZAITNANE} className="button button--flex" download="" >Download CV
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
