@@ -50,14 +50,14 @@ const Qualification = () => {
               <h3 className="qualification__title">Digital Development</h3>
               <span className="qualification__subtitle">Ntic - Hay Riad</span>
               <div className="qualification__calender">
-                <i className="uil uil-calendar-alt"></i> 2021 - 2022
+                <i className="uil uil-calendar-alt"></i>    2021 - 2022
               </div>
             </div>
           </div>
 
           <div className="qualification__data">
             <div>
-              <h3 className="qualification__title">Bachelor SP </h3>
+              <h3 className="qualification__title">Bachelor of Science in Physics  </h3>
               <span className="qualification__subtitle">Mers el khier - High School</span>
               <div className="qualification__calender">
                 <i className="uil uil-calendar-alt"></i> 2020 -2021
@@ -73,20 +73,7 @@ const Qualification = () => {
         </div>
 
         <div className={toggleState === 2 ? "qualification__content qualification__content-active" :"qualification__content"} > 
-          <div className="qualification__data">
-            <div>
-              <h3 className="qualification__title">Freelancer</h3>
-              <span className="qualification__subtitle">Upwork-khamsat</span>
-              <div className="qualification__calender">
-                <i className="uil uil-calendar-alt"></i> Present
-              </div>
-            </div>
-
-            <div>
-              <span className="qualification__rounder"></span>
-              <span className="qualification__line"></span>
-            </div>
-          </div>
+          
 
           <div className="qualification__data">
             <div></div>
@@ -109,7 +96,7 @@ const Qualification = () => {
               <h3 className="qualification__title">Stage</h3>
               <span className="qualification__subtitle">Hassan - CMCF</span>
               <div className="qualification__calender">
-                <i className="uil uil-calendar-alt"></i> 2023
+                <i className="uil uil-calendar-alt"></i> 04-2023 | 06-2023
               </div>
             </div>
 

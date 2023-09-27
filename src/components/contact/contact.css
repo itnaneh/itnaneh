@@ -100,6 +100,12 @@
     padding: 1.5rem;
 }
 
+#msg{
+    color: #61b752;
+    margin-right: -10px;
+    display: block;
+}
+
 /*============== BREAKPOINTS ===================*/
 /* For Large Devices*/
 @media screen and (max-width: 992px){
@@ -181,6 +187,9 @@
 margin-left: 12%;
 height: 4rem;
 }
+.contact__card{
+    margin-left: 2rem;
+}
   }
 
 @media screen and (max-width:322px){
@@ -218,4 +227,20 @@ height: 4rem;
 margin-left: 12%;
 height: 4rem;
 }
+.contact__card{
+    margin-left: 2rem;
+}
+.contact__form{
+    margin-left: 2rem;
+}
+}
+@media screen and (max-width:280px){
+    .contact__card{
+        margin-left:1rem;
+
+    }
+    .contact__form{
+        margin-left: 2rem;
+        width: 100%;
+    }
 }

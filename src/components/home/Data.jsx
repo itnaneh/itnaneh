@@ -55,11 +55,11 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className="home__subtitle">
-            Developer FullStack
+          Full Stack Developer
         </h3>
-        <p className="home__description">I am currently an intern in the OFPPT Digital Development option Web Full Stack.motivated and passionate about creating dynamic and interactive web applications..</p><br />
-        <a href="#contact" className="button button--flex">
-            Say Hello
+        <p className="home__description">Junior Full Stack Web Developer, I am passionate about web development innovation and creative solutions.</p><br />
+        <a href="#contact" className="button button--flex" id='btnnn'>
+            Contact Me
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

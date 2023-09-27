@@ -108,6 +108,9 @@
     margin-right: 1rem;
     cursor: pointer;
 }
+.nav__logo{
+    margin: 2rem;
+}
  
   .nav__list{
     column-gap: 0;

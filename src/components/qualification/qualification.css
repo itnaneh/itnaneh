@@ -20,6 +20,7 @@
     font-size: 1.8rem;
     margin-right: var(--mb-0-25);
 }
+
 .qualification__active{
     color: var(--title-color-dark);
 }
@@ -94,42 +95,8 @@
   .qualification__data{
     gap: 0.5rem;
   }
-  }
+  .qualification__sections{
+    grid-template-columns: initial;
+}
 
-  @media screen and (max-width:322px){
-    .qualification__icon{
-        font-size: 1.2rem;
-        margin-right: var(--mb-0-25);
-    }
-    .qualification__title{
-        font-size: 15px;
-        font-weight: var(--font-medium);
-    }
-    .qualification__subtitle{
-        font-size: 10px;
-        margin-bottom: 40px;
-    }
-    div .qualification__calender{
-        font-size: 11px;
-        margin-bottom: 2rem;
-        padding-top: 5px;
-    }
-    .qualification__rounder{
-        display: inline-block;
-        width: 10px;
-        height: 10px;
-        background-color: var(--text-color);
-        border-radius: 50%;
-    }
-    .qualification__line{
-        display: block;
-        width: 1px;
-        height: 60%;
-        background-color: var(--text-color);
-        transform: translate(4px,-7px);
-    }
-    .qualification__data{
-        column-gap: .5rem;
-        margin-bottom: 10px;
-    }
 }

@@ -59,6 +59,7 @@
     width: 300px;
     height: 300px;
     animation: profile__animate 8s ease-in-out infinite 1s;
+    margin-left: 1.5rem;
 }
 @keyframes profile__animate {
     0%{
@@ -167,6 +168,18 @@
     width: 22px;
     height: 22px;
    }
+   .home__description{
+    margin-left: 2rem;
+   }
+   .home__subtitle{
+    margin-left: 2rem;
+   }
+   .home__social{
+    margin-left: 2rem;
+   }
+   #btnnn{
+    margin-left: 2rem;
+   }
   }
 
   @media screen and (max-width:322px){
@@ -176,13 +189,15 @@
         margin-bottom: var(--mb-0-25);
     }
     .home__subtitle{
-        font-size: 0.8rem;
-        margin-left: 2rem;
+        font-size: 0.9rem;
+        margin-left: 4rem;
     }
     .home__description{
         font-size: 0.9rem;
-        margin-left: 0rem;
+        margin-left: 2rem;
     }
+   
+      
     
     
 }

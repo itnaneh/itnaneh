@@ -3,15 +3,22 @@ import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 
 const Contact = () => {
+    const msg = document.getElementById('#msg')
     const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+    const sendEmail = (e) => {
+      e.preventDefault();
+  
+      emailjs.sendForm(
+        'service_vp6x54l', 
+        'template_r6xhypg', 
+        form.current, 
+        'BAd90CNMlYglK4q4B'
+        )
+        e.target.reset()
+    };
+    
 
-    emailjs.sendForm('service_pcd5kyl', 'template_33gsl36', form.current, 'YBAd90CNMlYglK4q4B')
-    e.target.reset();
-  };
- 
   return (
     <section className="contact section" id="contact">
         <h2 className="section__title">Contact Me</h2>
@@ -32,7 +39,7 @@ const Contact = () => {
                     <i className="bx bxl-linkedin contact__card-icon"></i>
                     <h3 className="contact__card-title">LinkedIn</h3>
                     <span className="contact__card-data">Hamza Itnane</span>
-                    <a href="https://www.linkedin.com/in/hamza-itnane-330560241/"  target='__blank'  className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button"></i></a>
+                    <a href="https://www.linkedin.com/in/hamza-itnane/"  target='__blank'  className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button"></i></a>
                 </div>
 
                 <div className="contact__card">
@@ -50,18 +57,18 @@ const Contact = () => {
             <form className="contact__form" ref={form} onSubmit={sendEmail}>
                 <div className="contact__form-div">
                     <label className="contact__form-tag">Name</label>
-                    <input type="text" name='name' className='contact__form-input' placeholder='Inser your name' />
+                    <input type="text" name="name" className='contact__form-input' placeholder='Inser your name' required/>
                 </div>
 
                 <div className="contact__form-div">
                     <label className="contact__form-tag">Mail</label>
-                    <input type="email" name='email' className='contact__form-input' placeholder='Inser your mail' />
+                    <input type="email" name='email' className='contact__form-input' placeholder='Inser your mail' required/>
                 </div>
 
                 <div className="contact__form-div contact__form-area">
                     <label className="contact__form-tag" id='pr'>Project</label>
                         <textarea name="project" cols="30" rows="10" className='contact__form-area'
-                        placeholder="Write your project"></textarea> 
+                        placeholder="Write your project" required></textarea> 
                         </div>
                         
 
@@ -86,11 +93,16 @@ const Contact = () => {
                 </svg>
         </button>
         </form>
+        <span id="msg"></span>
+
                 </div>
             
         </div>
     </section>
   )
 }
+
+
+
 
 export default Contact

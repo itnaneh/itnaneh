@@ -99,6 +99,9 @@
     .work__filters{
         column-gap: 0.25rem;
     }
+    .work__card{
+        margin-left: 2rem;
+    }
    }
 @media screen and (max-width:322px){
     .work__container{
