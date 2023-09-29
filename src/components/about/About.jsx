@@ -11,7 +11,7 @@ const About = () => {
             <div className="about__container container grid">
             <img src={AboutImg} className='about__img' />
             <div className="about__data">
-            <p className="about__description" >I am Hamza Itnane 20 years old , holding a diploma in Full-Stack Web Development "OFPPT" I am highly motivated to enter the job market , I have a good mastery of the technologies mentioned on my CV, and I am open to improving my knowledge of other technologies.</p> <br />
+            <p className="about__description" >I am Hamza Itnane 20 years old , holding a diploma in Full-Stack Web Development "OFPPT" I am highly motivated to enter the job market , I have a good mastery of the technologies mentioned on my resume, and I am open to improving my knowledge of other technologies.</p> <br />
                 <a href={HAMZAITNANE} className="button button--flex" download="" >Download CV
                 <svg
                 class="button__icon"
