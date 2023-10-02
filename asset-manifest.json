@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itnaneh/static/css/main.cb0f05e0.css",
-    "main.js": "/itnaneh/static/js/main.4689339b.js",
+    "main.js": "/itnaneh/static/js/main.47263014.js",
     "static/media/4-STARBUCKS.png": "/itnaneh/static/media/4-STARBUCKS.9e51e422456b56901317.png",
     "static/media/1-Houses.png": "/itnaneh/static/media/1-Houses.c25367ef33b8371aec1b.png",
     "static/media/10-Movies.png": "/itnaneh/static/media/10-Movies.718c0cfa0779ec539791.png",
@@ -15,8 +15,8 @@
     "static/media/3-Ecommerce_Site.png": "/itnaneh/static/media/3-Ecommerce_Site.1ca21e00e20e025573bd.png",
     "static/media/8-Product Card.png": "/itnaneh/static/media/8-Product Card.2f5f6791c9c2b837d35a.png",
     "static/media/7-Dashboard.png": "/itnaneh/static/media/7-Dashboard.489726215d2d064b0c52.png",
-    "static/media/HAMZAITNANE-CV.pdf": "/itnaneh/static/media/HAMZAITNANE-CV.9c436df2626a7188e167.pdf",
     "static/media/profile.jpg": "/itnaneh/static/media/profile.2224f1690c6ea04b6079.jpg",
+    "static/media/HAMZAITNANE.pdf": "/itnaneh/static/media/HAMZAITNANE.a94d0f28829a118710dc.pdf",
     "static/media/th3.jpg": "/itnaneh/static/media/th3.a33afcc2253a69a2b292.jpg",
     "static/media/th1.jpg": "/itnaneh/static/media/th1.6dbaf2c5b430623d18af.jpg",
     "static/media/11-Gestion.png": "/itnaneh/static/media/11-Gestion.2eff083e48580f2dc2cd.png",
@@ -24,10 +24,10 @@
     "static/media/12-Employee.png": "/itnaneh/static/media/12-Employee.848b081e8873d0412c40.png",
     "index.html": "/itnaneh/index.html",
     "main.cb0f05e0.css.map": "/itnaneh/static/css/main.cb0f05e0.css.map",
-    "main.4689339b.js.map": "/itnaneh/static/js/main.4689339b.js.map"
+    "main.47263014.js.map": "/itnaneh/static/js/main.47263014.js.map"
   },
   "entrypoints": [
     "static/css/main.cb0f05e0.css",
-    "static/js/main.4689339b.js"
+    "static/js/main.47263014.js"
   ]
 }
