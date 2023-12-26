@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/itnaneh/static/css/main.cb0f05e0.css",
-    "main.js": "/itnaneh/static/js/main.47263014.js",
+    "main.css": "/itnaneh/static/css/main.24c0c397.css",
+    "main.js": "/itnaneh/static/js/main.7527ee68.js",
     "static/media/4-STARBUCKS.png": "/itnaneh/static/media/4-STARBUCKS.9e51e422456b56901317.png",
     "static/media/1-Houses.png": "/itnaneh/static/media/1-Houses.c25367ef33b8371aec1b.png",
     "static/media/10-Movies.png": "/itnaneh/static/media/10-Movies.718c0cfa0779ec539791.png",
-    "static/media/9-Landing_page.png": "/itnaneh/static/media/9-Landing_page.b54066e8c463a7d9ec73.png",
     "static/media/th4.png": "/itnaneh/static/media/th4.0d231745eb1d50f36942.png",
     "static/media/th2.jpg": "/itnaneh/static/media/th2.deeb9b20c359667988bc.jpg",
-    "static/media/th5.jpg": "/itnaneh/static/media/th5.8f822e2011b58f62d3cf.jpg",
     "static/media/about.png": "/itnaneh/static/media/about.27bac8e652224525dbcd.png",
     "static/media/5-Chair.png": "/itnaneh/static/media/5-Chair.8f5328999ab7851ab463.png",
     "static/media/2-Sneakers.png": "/itnaneh/static/media/2-Sneakers.c5233393786d27527065.png",
     "static/media/3-Ecommerce_Site.png": "/itnaneh/static/media/3-Ecommerce_Site.1ca21e00e20e025573bd.png",
-    "static/media/8-Product Card.png": "/itnaneh/static/media/8-Product Card.2f5f6791c9c2b837d35a.png",
-    "static/media/7-Dashboard.png": "/itnaneh/static/media/7-Dashboard.489726215d2d064b0c52.png",
     "static/media/profile.jpg": "/itnaneh/static/media/profile.2224f1690c6ea04b6079.jpg",
-    "static/media/HAMZAITNANE.pdf": "/itnaneh/static/media/HAMZAITNANE.a94d0f28829a118710dc.pdf",
+    "static/media/HAMZAITNANE.pdf": "/itnaneh/static/media/HAMZAITNANE.8aec7796dca334f39f7b.pdf",
+    "static/media/Edit_5.jpg": "/itnaneh/static/media/Edit_5.bd3d9d5608fd48dae69f.jpg",
+    "static/media/Edit_6.jpg": "/itnaneh/static/media/Edit_6.50cf509108b66f72cca6.jpg",
+    "static/media/Edit_4.jpg": "/itnaneh/static/media/Edit_4.02987da0dee183010a50.jpg",
+    "static/media/Edit_2.jpg": "/itnaneh/static/media/Edit_2.6db9b9e1c631e05664a3.jpg",
+    "static/media/Edit_3.jpg": "/itnaneh/static/media/Edit_3.16f6bd03d0dcd831b0d6.jpg",
     "static/media/th3.jpg": "/itnaneh/static/media/th3.a33afcc2253a69a2b292.jpg",
     "static/media/th1.jpg": "/itnaneh/static/media/th1.6dbaf2c5b430623d18af.jpg",
+    "static/media/Edit_1.jpg": "/itnaneh/static/media/Edit_1.c811981fdba43821c1e8.jpg",
     "static/media/11-Gestion.png": "/itnaneh/static/media/11-Gestion.2eff083e48580f2dc2cd.png",
     "static/media/6-Weather App.png": "/itnaneh/static/media/6-Weather App.5b559bf1025303d86f97.png",
     "static/media/12-Employee.png": "/itnaneh/static/media/12-Employee.848b081e8873d0412c40.png",
     "index.html": "/itnaneh/index.html",
-    "main.cb0f05e0.css.map": "/itnaneh/static/css/main.cb0f05e0.css.map",
-    "main.47263014.js.map": "/itnaneh/static/js/main.47263014.js.map"
+    "main.24c0c397.css.map": "/itnaneh/static/css/main.24c0c397.css.map",
+    "main.7527ee68.js.map": "/itnaneh/static/js/main.7527ee68.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb0f05e0.css",
-    "static/js/main.47263014.js"
+    "static/css/main.24c0c397.css",
+    "static/js/main.7527ee68.js"
   ]
 }
