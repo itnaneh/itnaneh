@@ -7,10 +7,10 @@ import Weather from "../../assets/6-Weather App.png";                           
 import Movie from "../../assets/10-Movies.png";                                             // 10
 import Trainees from "../../assets/11-Gestion.png";                                           // 11
 import Employee from "../../assets/12-Employee.png";                                          // 12
-import th1 from "../../assets/th1.jpg";                                                       // 
-import th2 from "../../assets/th2.jpg";                                                       //  
-import th3 from "../../assets/th3.jpg";                                                       //
-import th4 from "../../assets/th4.png";                                                       //
+import th1 from "../../assets/th1.jpg";                                                        
+import th2 from "../../assets/th2.jpg";                                                         
+import th3 from "../../assets/th3.jpg";                                                       
+import th4 from "../../assets/th4.png";                                                       
 import Ed1 from "../../assets/Edit_1.jpg";                                                         
 import Ed2 from "../../assets/Edit_2.jpg";                                                         
 import Ed3 from "../../assets/Edit_3.jpg";                                                         
