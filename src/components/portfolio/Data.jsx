@@ -4,9 +4,6 @@ import Ecommerce_Site from "../../assets/3-Ecommerce_Site.png";                 
 import STARBUCKS from "../../assets/4-STARBUCKS.png";                                         // 4
 import Chairs from "../../assets/5-Chair.png";                                                // 5
 import Weather from "../../assets/6-Weather App.png";                                         // 6
-import Dashboard from "../../assets/7-Dashboard.png";                                         // 7
-import Product_Card from "../../assets/8-Product Card.png";                                   // 8
-import L_Page from "../../assets/9-Landing_page.png";                                         // 9
 import Movie from "../../assets/10-Movies.png";                                             // 10
 import Trainees from "../../assets/11-Gestion.png";                                           // 11
 import Employee from "../../assets/12-Employee.png";                                          // 12
@@ -14,8 +11,12 @@ import th1 from "../../assets/th1.jpg";                                         
 import th2 from "../../assets/th2.jpg";                                                       //  
 import th3 from "../../assets/th3.jpg";                                                       //
 import th4 from "../../assets/th4.png";                                                       //
-import th5 from "../../assets/th5.jpg";                                                       //
-
+import Ed1 from "../../assets/Edit_1.jpg";                                                         
+import Ed2 from "../../assets/Edit_2.jpg";                                                         
+import Ed3 from "../../assets/Edit_3.jpg";                                                         
+import Ed4 from "../../assets/Edit_4.jpg";                                                         
+import Ed5 from "../../assets/Edit_5.jpg";                                                         
+import Ed6 from "../../assets/Edit_6.jpg";                                                         
 
 
 
@@ -62,27 +63,6 @@ export const  projectsData = [
         title :'Weather App',
         category : 'Web',
         link: "https://itnaneh.github.io/Weather-App/",
-    },
-    {
-        id: 7,
-        image: Dashboard,
-        title :'Dashboard',
-        category : 'Web',
-        link: "https://itnaneh.github.io/Dashboard/",
-    },
-    {
-        id: 8,
-        image: Product_Card,
-        title :'Product Card',
-        category : 'Web',
-        link: "https://itnaneh.github.io/Product_Card/",
-    },
-    {
-        id: 9,
-        image: L_Page,
-        title :'Landing Page',
-        category : 'Web',
-        link: "https://itnaneh.github.io/Landing_Page/",
     },
     {
         id: 10,
@@ -132,9 +112,45 @@ export const  projectsData = [
     },
     {
         id: 17,
-        image: th5,
-        title :'Thumbnail 5',
-        category : 'Design',
+        image: Ed1,
+        title :'Edit 1',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=kDcrrnoHlXU&t=26s",
+    },
+    {
+        id: 18,
+        image: Ed2,
+        title :'Edit 2',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=9fKlI4FL5go&t=36s",
+    },
+    {
+        id: 19,
+        image: Ed3,
+        title :'Edit 3',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=A9vI-h6FNaU&t=17s",
+    },
+    {
+        id: 20,
+        image: Ed4,
+        title :'Edit 4',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=xc6W2l8-0Mw&t=76s",
+    },
+    {
+        id: 21,
+        image: Ed5,
+        title :'Edit 5',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=oJ-IQipHBFA&t=49s",
+    },
+    {
+        id: 22,
+        image: Ed6,
+        title :'Edit 6',
+        category : 'Editing',
+        link: "https://www.youtube.com/watch?v=jkaFtEYa5v4",
     },
     
 ];
@@ -150,5 +166,9 @@ export const projectsNav =[
         },
         {
             name : 'Design',
+        },
+        {
+            name : 'Editing',
         }
+
 ]

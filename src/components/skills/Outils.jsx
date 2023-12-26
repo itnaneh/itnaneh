@@ -15,20 +15,22 @@ const Outils = () => {
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
-                    <div className="skills__data">
-                   <i class='bx bxs-badge-check'></i>
-
-                    <div>
-                        <h3 className="skills__name">Docker</h3>
-                        <span className="skills__level">Beginner</span>
-                    </div>
-                    </div>
+                    
                     <div className="skills__data">
                    <i class='bx bxs-badge-check'></i>
 
                     <div>
                         <h3 className="skills__name">Jira</h3>
                         <span className="skills__level">Beginner</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                   <i class='bx bxs-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills__name">Photoshop</h3>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
 
